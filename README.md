@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BibiZulaikhaAkbari
 - 👀 I’m interested to watch some action movies in my free times
-- 🌱 I’m currently learning Siftware Development at Mohawk College
+- 🌱 I’m currently learning Software Development at Mohawk College
 - 💞️ I’m looking to collaborate on coding with different techniques
 - 📫 How to reach me: check my profile
 - 😄 Pronouns: she / her
