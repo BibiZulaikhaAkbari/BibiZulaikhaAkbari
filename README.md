@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Development at Mohawk College
 - 💞️ I’m looking to collaborate on coding with different techniques
 - 📫 How to reach me: check my profile
-- 😄 Pronouns: she / her
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a pharmasist as well :)
 
 
